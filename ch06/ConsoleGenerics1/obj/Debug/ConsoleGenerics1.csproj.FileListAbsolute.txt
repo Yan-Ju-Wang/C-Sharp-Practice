@@ -1,0 +1,5 @@
+C:\cs2017\ch07\ConsoleGenerics1\bin\Debug\ConsoleGenerics1.exe.config
+C:\cs2017\ch07\ConsoleGenerics1\bin\Debug\ConsoleGenerics1.exe
+C:\cs2017\ch07\ConsoleGenerics1\bin\Debug\ConsoleGenerics1.pdb
+C:\cs2017\ch07\ConsoleGenerics1\obj\Debug\ConsoleGenerics1.exe
+C:\cs2017\ch07\ConsoleGenerics1\obj\Debug\ConsoleGenerics1.pdb

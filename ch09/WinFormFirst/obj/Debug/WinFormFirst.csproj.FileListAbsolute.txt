@@ -1,0 +1,9 @@
+C:\cs2017\ch09\WinFormFirst\bin\Debug\WinFormFirst.exe.config
+C:\cs2017\ch09\WinFormFirst\bin\Debug\WinFormFirst.exe
+C:\cs2017\ch09\WinFormFirst\bin\Debug\WinFormFirst.pdb
+C:\cs2017\ch09\WinFormFirst\obj\Debug\WinFormFirst.csprojResolveAssemblyReference.cache
+C:\cs2017\ch09\WinFormFirst\obj\Debug\WinFormFirst.Form1.resources
+C:\cs2017\ch09\WinFormFirst\obj\Debug\WinFormFirst.Properties.Resources.resources
+C:\cs2017\ch09\WinFormFirst\obj\Debug\WinFormFirst.csproj.GenerateResource.Cache
+C:\cs2017\ch09\WinFormFirst\obj\Debug\WinFormFirst.exe
+C:\cs2017\ch09\WinFormFirst\obj\Debug\WinFormFirst.pdb

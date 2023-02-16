@@ -1,0 +1,9 @@
+C:\cs2017\ch09\WinGuess\bin\Debug\WinGuess.exe.config
+C:\cs2017\ch09\WinGuess\bin\Debug\WinGuess.exe
+C:\cs2017\ch09\WinGuess\bin\Debug\WinGuess.pdb
+C:\cs2017\ch09\WinGuess\obj\Debug\WinGuess.csprojResolveAssemblyReference.cache
+C:\cs2017\ch09\WinGuess\obj\Debug\WinGuess.Form1.resources
+C:\cs2017\ch09\WinGuess\obj\Debug\WinGuess.Properties.Resources.resources
+C:\cs2017\ch09\WinGuess\obj\Debug\WinGuess.csproj.GenerateResource.Cache
+C:\cs2017\ch09\WinGuess\obj\Debug\WinGuess.exe
+C:\cs2017\ch09\WinGuess\obj\Debug\WinGuess.pdb

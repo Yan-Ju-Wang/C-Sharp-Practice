@@ -1,0 +1,50 @@
+C:\cs2010\ch17\BindingManagerBase1\bin\Debug\BindingManagerBase1.exe
+C:\cs2010\ch17\BindingManagerBase1\bin\Debug\BindingManagerBase1.pdb
+C:\cs2010\ch17\BindingManagerBase1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\cs2010\ch17\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.Form1.resources
+C:\cs2010\ch17\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.Properties.Resources.resources
+C:\cs2010\ch17\BindingManagerBase1\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\cs2010\ch17\BindingManagerBase1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2010\ch17\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.exe
+C:\cs2010\ch17\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.pdb
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch17\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.exe
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch17\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.pdb
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch17\BindingManagerBase1\bin\Debug\BindingManagerBase1.exe
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch17\BindingManagerBase1\bin\Debug\BindingManagerBase1.pdb
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch17\BindingManagerBase1\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch17\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.Form1.resources
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch17\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.Properties.Resources.resources
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch17\BindingManagerBase1\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\00-Visual C# 2010程式設計經典-書附光碟\ch17\BindingManagerBase1\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\cs2012\ch17\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.exe
+C:\cs2012\ch17\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.pdb
+C:\cs2012\ch17\BindingManagerBase1\bin\Debug\BindingManagerBase1.exe
+C:\cs2012\ch17\BindingManagerBase1\bin\Debug\BindingManagerBase1.pdb
+C:\cs2012\ch17\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.csprojResolveAssemblyReference.cache
+C:\cs2012\ch17\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.Form1.resources
+C:\cs2012\ch17\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.Properties.Resources.resources
+C:\cs2012\ch17\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.csproj.GenerateResource.Cache
+C:\cs2013\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.exe
+C:\cs2013\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.pdb
+C:\cs2013\ch18\BindingManagerBase1\bin\Debug\BindingManagerBase1.exe
+C:\cs2013\ch18\BindingManagerBase1\bin\Debug\BindingManagerBase1.pdb
+C:\cs2013\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.csprojResolveAssemblyReference.cache
+C:\cs2013\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.Form1.resources
+C:\cs2013\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.Properties.Resources.resources
+C:\cs2013\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.csproj.GenerateResource.Cache
+C:\cs2015\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.exe
+C:\cs2015\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.pdb
+C:\cs2015\ch18\BindingManagerBase1\bin\Debug\BindingManagerBase1.exe
+C:\cs2015\ch18\BindingManagerBase1\bin\Debug\BindingManagerBase1.pdb
+C:\cs2015\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.csprojResolveAssemblyReference.cache
+C:\cs2015\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.Form1.resources
+C:\cs2015\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.Properties.Resources.resources
+C:\cs2015\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.csproj.GenerateResource.Cache
+C:\cs2017\ch18\BindingManagerBase1\bin\Debug\BindingManagerBase1.exe
+C:\cs2017\ch18\BindingManagerBase1\bin\Debug\BindingManagerBase1.pdb
+C:\cs2017\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.csprojResolveAssemblyReference.cache
+C:\cs2017\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.Form1.resources
+C:\cs2017\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.Properties.Resources.resources
+C:\cs2017\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.csproj.GenerateResource.Cache
+C:\cs2017\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.exe
+C:\cs2017\ch18\BindingManagerBase1\obj\x86\Debug\BindingManagerBase1.pdb

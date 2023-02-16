@@ -1,0 +1,6 @@
+C:\cs2017\ch09\ConsoleTryCatchTest1\bin\Debug\ConsoleTryCatchTest1.exe.config
+C:\cs2017\ch09\ConsoleTryCatchTest1\bin\Debug\ConsoleTryCatchTest1.exe
+C:\cs2017\ch09\ConsoleTryCatchTest1\bin\Debug\ConsoleTryCatchTest1.pdb
+C:\cs2017\ch09\ConsoleTryCatchTest1\obj\Debug\ConsoleTryCatchTest1.csprojResolveAssemblyReference.cache
+C:\cs2017\ch09\ConsoleTryCatchTest1\obj\Debug\ConsoleTryCatchTest1.exe
+C:\cs2017\ch09\ConsoleTryCatchTest1\obj\Debug\ConsoleTryCatchTest1.pdb

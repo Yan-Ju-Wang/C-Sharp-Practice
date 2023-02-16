@@ -1,0 +1,11 @@
+C:\cs2017\ch08\ConsoleList\bin\Debug\ConsoleList.exe.config
+C:\cs2017\ch08\ConsoleList\bin\Debug\ConsoleList.exe
+C:\cs2017\ch08\ConsoleList\bin\Debug\ConsoleList.pdb
+C:\cs2017\ch08\ConsoleList\obj\Debug\ConsoleList.exe
+C:\cs2017\ch08\ConsoleList\obj\Debug\ConsoleList.pdb
+C:\cs2017\ch07\ConsoleList\bin\Debug\ConsoleList.exe.config
+C:\cs2017\ch07\ConsoleList\bin\Debug\ConsoleList.exe
+C:\cs2017\ch07\ConsoleList\bin\Debug\ConsoleList.pdb
+C:\cs2017\ch07\ConsoleList\obj\Debug\ConsoleList.csprojResolveAssemblyReference.cache
+C:\cs2017\ch07\ConsoleList\obj\Debug\ConsoleList.exe
+C:\cs2017\ch07\ConsoleList\obj\Debug\ConsoleList.pdb

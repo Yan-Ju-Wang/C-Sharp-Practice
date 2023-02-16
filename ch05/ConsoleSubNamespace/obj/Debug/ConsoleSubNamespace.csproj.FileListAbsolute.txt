@@ -1,0 +1,10 @@
+C:\cs2017\ch06\ConsoleSubNamespace\bin\Debug\ConsoleSubNamespace.exe.config
+C:\cs2017\ch06\ConsoleSubNamespace\bin\Debug\ConsoleSubNamespace.exe
+C:\cs2017\ch06\ConsoleSubNamespace\bin\Debug\ConsoleSubNamespace.pdb
+C:\cs2017\ch06\ConsoleSubNamespace\obj\Debug\ConsoleSubNamespace.exe
+C:\cs2017\ch06\ConsoleSubNamespace\obj\Debug\ConsoleSubNamespace.pdb
+C:\cs2017\ch05\ConsoleSubNamespace\bin\Debug\ConsoleSubNamespace.exe.config
+C:\cs2017\ch05\ConsoleSubNamespace\bin\Debug\ConsoleSubNamespace.exe
+C:\cs2017\ch05\ConsoleSubNamespace\bin\Debug\ConsoleSubNamespace.pdb
+C:\cs2017\ch05\ConsoleSubNamespace\obj\Debug\ConsoleSubNamespace.exe
+C:\cs2017\ch05\ConsoleSubNamespace\obj\Debug\ConsoleSubNamespace.pdb

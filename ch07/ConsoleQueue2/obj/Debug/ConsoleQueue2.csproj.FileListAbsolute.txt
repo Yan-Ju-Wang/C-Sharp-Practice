@@ -1,0 +1,12 @@
+C:\cs2017\ch08\ConsoleQueue2\bin\Debug\ConsoleQueue2.exe.config
+C:\cs2017\ch08\ConsoleQueue2\bin\Debug\ConsoleQueue2.exe
+C:\cs2017\ch08\ConsoleQueue2\bin\Debug\ConsoleQueue2.pdb
+C:\cs2017\ch08\ConsoleQueue2\obj\Debug\ConsoleQueue2.exe
+C:\cs2017\ch08\ConsoleQueue2\obj\Debug\ConsoleQueue2.pdb
+C:\cs2017\ch08\ConsoleQueue2\obj\Debug\ConsoleQueue2.csprojResolveAssemblyReference.cache
+C:\cs2017\ch07\ConsoleQueue2\bin\Debug\ConsoleQueue2.exe.config
+C:\cs2017\ch07\ConsoleQueue2\bin\Debug\ConsoleQueue2.exe
+C:\cs2017\ch07\ConsoleQueue2\bin\Debug\ConsoleQueue2.pdb
+C:\cs2017\ch07\ConsoleQueue2\obj\Debug\ConsoleQueue2.csprojResolveAssemblyReference.cache
+C:\cs2017\ch07\ConsoleQueue2\obj\Debug\ConsoleQueue2.exe
+C:\cs2017\ch07\ConsoleQueue2\obj\Debug\ConsoleQueue2.pdb

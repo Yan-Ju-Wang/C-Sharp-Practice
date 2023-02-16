@@ -1,0 +1,5 @@
+C:\cs2017\ch02\ConsoleTest\bin\Debug\ConsoleTest.exe.config
+C:\cs2017\ch02\ConsoleTest\bin\Debug\ConsoleTest.exe
+C:\cs2017\ch02\ConsoleTest\bin\Debug\ConsoleTest.pdb
+C:\cs2017\ch02\ConsoleTest\obj\Debug\ConsoleTest.exe
+C:\cs2017\ch02\ConsoleTest\obj\Debug\ConsoleTest.pdb

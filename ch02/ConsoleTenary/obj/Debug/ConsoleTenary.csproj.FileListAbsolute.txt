@@ -1,0 +1,5 @@
+C:\cs2017\ch02\ConsoleTenary\bin\Debug\ConsoleTenary.exe.config
+C:\cs2017\ch02\ConsoleTenary\bin\Debug\ConsoleTenary.exe
+C:\cs2017\ch02\ConsoleTenary\bin\Debug\ConsoleTenary.pdb
+C:\cs2017\ch02\ConsoleTenary\obj\Debug\ConsoleTenary.exe
+C:\cs2017\ch02\ConsoleTenary\obj\Debug\ConsoleTenary.pdb

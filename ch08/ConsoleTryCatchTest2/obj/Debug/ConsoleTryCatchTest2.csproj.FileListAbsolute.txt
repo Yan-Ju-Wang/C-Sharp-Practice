@@ -1,0 +1,5 @@
+C:\cs2017\ch09\ConsoleTryCatchTest2\bin\Debug\ConsoleTryCatchTest2.exe.config
+C:\cs2017\ch09\ConsoleTryCatchTest2\bin\Debug\ConsoleTryCatchTest2.exe
+C:\cs2017\ch09\ConsoleTryCatchTest2\bin\Debug\ConsoleTryCatchTest2.pdb
+C:\cs2017\ch09\ConsoleTryCatchTest2\obj\Debug\ConsoleTryCatchTest2.exe
+C:\cs2017\ch09\ConsoleTryCatchTest2\obj\Debug\ConsoleTryCatchTest2.pdb

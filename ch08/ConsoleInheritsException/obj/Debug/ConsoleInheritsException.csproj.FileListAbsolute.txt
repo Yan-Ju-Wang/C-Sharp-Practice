@@ -1,0 +1,5 @@
+C:\cs2017\ch08\ConsoleInheritsException\bin\Debug\ConsoleInheritsException.exe.config
+C:\cs2017\ch08\ConsoleInheritsException\bin\Debug\ConsoleInheritsException.exe
+C:\cs2017\ch08\ConsoleInheritsException\bin\Debug\ConsoleInheritsException.pdb
+C:\cs2017\ch08\ConsoleInheritsException\obj\Debug\ConsoleInheritsException.exe
+C:\cs2017\ch08\ConsoleInheritsException\obj\Debug\ConsoleInheritsException.pdb

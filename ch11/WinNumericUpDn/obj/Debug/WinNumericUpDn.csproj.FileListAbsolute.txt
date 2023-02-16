@@ -1,0 +1,9 @@
+C:\cs2017\ch11\WinNumericUpDn\bin\Debug\WinNumericUpDn.exe.config
+C:\cs2017\ch11\WinNumericUpDn\bin\Debug\WinNumericUpDn.exe
+C:\cs2017\ch11\WinNumericUpDn\bin\Debug\WinNumericUpDn.pdb
+C:\cs2017\ch11\WinNumericUpDn\obj\Debug\WinNumericUpDn.csprojResolveAssemblyReference.cache
+C:\cs2017\ch11\WinNumericUpDn\obj\Debug\WinNumericUpDn.Form1.resources
+C:\cs2017\ch11\WinNumericUpDn\obj\Debug\WinNumericUpDn.Properties.Resources.resources
+C:\cs2017\ch11\WinNumericUpDn\obj\Debug\WinNumericUpDn.csproj.GenerateResource.Cache
+C:\cs2017\ch11\WinNumericUpDn\obj\Debug\WinNumericUpDn.exe
+C:\cs2017\ch11\WinNumericUpDn\obj\Debug\WinNumericUpDn.pdb

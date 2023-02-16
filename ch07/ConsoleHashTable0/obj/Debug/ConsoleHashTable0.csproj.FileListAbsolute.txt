@@ -1,0 +1,10 @@
+C:\cs2017\ch08\ConsoleHashTable0\bin\Debug\ConsoleHashTable0.exe.config
+C:\cs2017\ch08\ConsoleHashTable0\bin\Debug\ConsoleHashTable0.exe
+C:\cs2017\ch08\ConsoleHashTable0\bin\Debug\ConsoleHashTable0.pdb
+C:\cs2017\ch08\ConsoleHashTable0\obj\Debug\ConsoleHashTable0.exe
+C:\cs2017\ch08\ConsoleHashTable0\obj\Debug\ConsoleHashTable0.pdb
+C:\cs2017\ch07\ConsoleHashTable0\bin\Debug\ConsoleHashTable0.exe.config
+C:\cs2017\ch07\ConsoleHashTable0\bin\Debug\ConsoleHashTable0.exe
+C:\cs2017\ch07\ConsoleHashTable0\bin\Debug\ConsoleHashTable0.pdb
+C:\cs2017\ch07\ConsoleHashTable0\obj\Debug\ConsoleHashTable0.exe
+C:\cs2017\ch07\ConsoleHashTable0\obj\Debug\ConsoleHashTable0.pdb

@@ -1,0 +1,6 @@
+C:\cs2017\ch08\ConsoleCal-Eng\bin\Debug\ConsoleCal-Eng.exe.config
+C:\cs2017\ch08\ConsoleCal-Eng\bin\Debug\ConsoleCal-Eng.exe
+C:\cs2017\ch08\ConsoleCal-Eng\bin\Debug\ConsoleCal-Eng.pdb
+C:\cs2017\ch08\ConsoleCal-Eng\obj\Debug\ConsoleCal-Eng.exe
+C:\cs2017\ch08\ConsoleCal-Eng\obj\Debug\ConsoleCal-Eng.pdb
+C:\cs2017\ch08\ConsoleCal-Eng\obj\Debug\ConsoleCal-Eng.csprojResolveAssemblyReference.cache

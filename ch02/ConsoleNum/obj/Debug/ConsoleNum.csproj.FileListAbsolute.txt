@@ -1,0 +1,5 @@
+C:\cs2017\ch02\ConsoleNum\bin\Debug\ConsoleNum.exe.config
+C:\cs2017\ch02\ConsoleNum\bin\Debug\ConsoleNum.exe
+C:\cs2017\ch02\ConsoleNum\bin\Debug\ConsoleNum.pdb
+C:\cs2017\ch02\ConsoleNum\obj\Debug\ConsoleNum.exe
+C:\cs2017\ch02\ConsoleNum\obj\Debug\ConsoleNum.pdb

@@ -1,0 +1,10 @@
+c:\users\jane\documents\visual studio 2017\Projects\ConsoleMemMethod1\bin\Debug\ConsoleMemMethod1.exe.config
+c:\users\jane\documents\visual studio 2017\Projects\ConsoleMemMethod1\bin\Debug\ConsoleMemMethod1.exe
+c:\users\jane\documents\visual studio 2017\Projects\ConsoleMemMethod1\bin\Debug\ConsoleMemMethod1.pdb
+c:\users\jane\documents\visual studio 2017\Projects\ConsoleMemMethod1\obj\Debug\ConsoleMemMethod1.exe
+c:\users\jane\documents\visual studio 2017\Projects\ConsoleMemMethod1\obj\Debug\ConsoleMemMethod1.pdb
+C:\cs2017\ch05\ConsoleMemMethod1\bin\Debug\ConsoleMemMethod1.exe.config
+C:\cs2017\ch05\ConsoleMemMethod1\bin\Debug\ConsoleMemMethod1.exe
+C:\cs2017\ch05\ConsoleMemMethod1\bin\Debug\ConsoleMemMethod1.pdb
+C:\cs2017\ch05\ConsoleMemMethod1\obj\Debug\ConsoleMemMethod1.exe
+C:\cs2017\ch05\ConsoleMemMethod1\obj\Debug\ConsoleMemMethod1.pdb

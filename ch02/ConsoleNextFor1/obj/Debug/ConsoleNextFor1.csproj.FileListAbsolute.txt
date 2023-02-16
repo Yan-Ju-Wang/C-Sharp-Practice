@@ -1,0 +1,6 @@
+C:\cs2017\ch02\ConsoleNextFor1\bin\Debug\ConsoleNextFor1.exe.config
+C:\cs2017\ch02\ConsoleNextFor1\bin\Debug\ConsoleNextFor1.exe
+C:\cs2017\ch02\ConsoleNextFor1\bin\Debug\ConsoleNextFor1.pdb
+C:\cs2017\ch02\ConsoleNextFor1\obj\Debug\ConsoleNextFor1.csprojResolveAssemblyReference.cache
+C:\cs2017\ch02\ConsoleNextFor1\obj\Debug\ConsoleNextFor1.exe
+C:\cs2017\ch02\ConsoleNextFor1\obj\Debug\ConsoleNextFor1.pdb

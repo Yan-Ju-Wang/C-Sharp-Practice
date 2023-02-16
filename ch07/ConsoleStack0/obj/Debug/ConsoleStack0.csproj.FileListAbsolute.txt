@@ -1,0 +1,10 @@
+C:\cs2017\ch08\ConsoleStack0\bin\Debug\ConsoleStack0.exe.config
+C:\cs2017\ch08\ConsoleStack0\bin\Debug\ConsoleStack0.exe
+C:\cs2017\ch08\ConsoleStack0\bin\Debug\ConsoleStack0.pdb
+C:\cs2017\ch08\ConsoleStack0\obj\Debug\ConsoleStack0.exe
+C:\cs2017\ch08\ConsoleStack0\obj\Debug\ConsoleStack0.pdb
+C:\cs2017\ch07\ConsoleStack0\bin\Debug\ConsoleStack0.exe.config
+C:\cs2017\ch07\ConsoleStack0\bin\Debug\ConsoleStack0.exe
+C:\cs2017\ch07\ConsoleStack0\bin\Debug\ConsoleStack0.pdb
+C:\cs2017\ch07\ConsoleStack0\obj\Debug\ConsoleStack0.exe
+C:\cs2017\ch07\ConsoleStack0\obj\Debug\ConsoleStack0.pdb

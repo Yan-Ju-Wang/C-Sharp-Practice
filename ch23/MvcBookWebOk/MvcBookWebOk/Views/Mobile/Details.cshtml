@@ -1,0 +1,29 @@
+﻿@model MvcBookWeb.Models.書籍
+
+@{
+    ViewBag.Title = "書籍資訊";
+    Layout = "~/Views/Shared/_MobileLayout.cshtml";
+}
+
+<div data-role="page" id="Index">
+    <div data-role="header">
+        <h3>碁峰暢銷書籍</h3>
+    </div>
+    <div data-role="content">
+        <p style="text-align:center;">
+            <img src="~/images/@Model.圖示" style="max-width:75%;" />
+        </p>
+        <h3>書號：@Model.書號</h3>
+        <h3>書名：@Model.書名</h3>
+        <h3>單價：@Model.單價</h3>
+    </div>
+    <div data-role="footer" data-position="fixed">
+        <div data-role="navbar">
+            <ul>
+                <li><a href="Index" data-ajax="false">優質書籍</a></li>
+                <li><a href="#about" data-rel="dialog">關於我們</a></li>
+            </ul>
+        </div>
+        <h3>碁峰資訊-版權所有</h3>
+    </div>
+</div>

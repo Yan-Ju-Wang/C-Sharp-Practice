@@ -1,0 +1,12 @@
+C:\cs2017\ch07\ConsoleWinForm1\bin\Debug\ConsoleWinForm1.exe.config
+C:\cs2017\ch07\ConsoleWinForm1\bin\Debug\ConsoleWinForm1.exe
+C:\cs2017\ch07\ConsoleWinForm1\bin\Debug\ConsoleWinForm1.pdb
+C:\cs2017\ch07\ConsoleWinForm1\obj\Debug\ConsoleWinForm1.csprojResolveAssemblyReference.cache
+C:\cs2017\ch07\ConsoleWinForm1\obj\Debug\ConsoleWinForm1.exe
+C:\cs2017\ch07\ConsoleWinForm1\obj\Debug\ConsoleWinForm1.pdb
+C:\cs2017\ch06\ConsoleWinForm1\bin\Debug\ConsoleWinForm1.exe.config
+C:\cs2017\ch06\ConsoleWinForm1\bin\Debug\ConsoleWinForm1.exe
+C:\cs2017\ch06\ConsoleWinForm1\bin\Debug\ConsoleWinForm1.pdb
+C:\cs2017\ch06\ConsoleWinForm1\obj\Debug\ConsoleWinForm1.csprojResolveAssemblyReference.cache
+C:\cs2017\ch06\ConsoleWinForm1\obj\Debug\ConsoleWinForm1.exe
+C:\cs2017\ch06\ConsoleWinForm1\obj\Debug\ConsoleWinForm1.pdb

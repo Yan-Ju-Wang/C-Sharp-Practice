@@ -1,0 +1,12 @@
+C:\cs2017\ch04\ConsoleByRef\bin\Debug\ConsoleByRef.exe.config
+C:\cs2017\ch04\ConsoleByRef\bin\Debug\ConsoleByRef.exe
+C:\cs2017\ch04\ConsoleByRef\bin\Debug\ConsoleByRef.pdb
+C:\cs2017\ch04\ConsoleByRef\obj\Debug\ConsoleByRef.csprojResolveAssemblyReference.cache
+C:\cs2017\ch04\ConsoleByRef\obj\Debug\ConsoleByRef.exe
+C:\cs2017\ch04\ConsoleByRef\obj\Debug\ConsoleByRef.pdb
+C:\cs2017\ch03\ConsoleByRef\bin\Debug\ConsoleByRef.exe.config
+C:\cs2017\ch03\ConsoleByRef\bin\Debug\ConsoleByRef.exe
+C:\cs2017\ch03\ConsoleByRef\bin\Debug\ConsoleByRef.pdb
+C:\cs2017\ch03\ConsoleByRef\obj\Debug\ConsoleByRef.csprojResolveAssemblyReference.cache
+C:\cs2017\ch03\ConsoleByRef\obj\Debug\ConsoleByRef.exe
+C:\cs2017\ch03\ConsoleByRef\obj\Debug\ConsoleByRef.pdb

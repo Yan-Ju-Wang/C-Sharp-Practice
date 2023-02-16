@@ -1,0 +1,9 @@
+C:\cs2017\ch10\WinListCombo\bin\Debug\WinListCombo.exe.config
+C:\cs2017\ch10\WinListCombo\bin\Debug\WinListCombo.exe
+C:\cs2017\ch10\WinListCombo\bin\Debug\WinListCombo.pdb
+C:\cs2017\ch10\WinListCombo\obj\Debug\WinListCombo.csprojResolveAssemblyReference.cache
+C:\cs2017\ch10\WinListCombo\obj\Debug\WinListCombo.Form1.resources
+C:\cs2017\ch10\WinListCombo\obj\Debug\WinListCombo.Properties.Resources.resources
+C:\cs2017\ch10\WinListCombo\obj\Debug\WinListCombo.csproj.GenerateResource.Cache
+C:\cs2017\ch10\WinListCombo\obj\Debug\WinListCombo.exe
+C:\cs2017\ch10\WinListCombo\obj\Debug\WinListCombo.pdb

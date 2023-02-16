@@ -1,0 +1,5 @@
+C:\cs2017\ch01\ConsoleToString\bin\Debug\ConsoleToString.exe.config
+C:\cs2017\ch01\ConsoleToString\bin\Debug\ConsoleToString.exe
+C:\cs2017\ch01\ConsoleToString\bin\Debug\ConsoleToString.pdb
+C:\cs2017\ch01\ConsoleToString\obj\Debug\ConsoleToString.exe
+C:\cs2017\ch01\ConsoleToString\obj\Debug\ConsoleToString.pdb

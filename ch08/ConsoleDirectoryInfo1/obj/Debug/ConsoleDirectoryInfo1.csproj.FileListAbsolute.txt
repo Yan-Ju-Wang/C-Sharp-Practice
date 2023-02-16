@@ -1,0 +1,6 @@
+C:\cs2017\ch08\ConsoleDirectoryInfo1\bin\Debug\ConsoleDirectoryInfo1.exe.config
+C:\cs2017\ch08\ConsoleDirectoryInfo1\bin\Debug\ConsoleDirectoryInfo1.exe
+C:\cs2017\ch08\ConsoleDirectoryInfo1\bin\Debug\ConsoleDirectoryInfo1.pdb
+C:\cs2017\ch08\ConsoleDirectoryInfo1\obj\Debug\ConsoleDirectoryInfo1.csprojResolveAssemblyReference.cache
+C:\cs2017\ch08\ConsoleDirectoryInfo1\obj\Debug\ConsoleDirectoryInfo1.exe
+C:\cs2017\ch08\ConsoleDirectoryInfo1\obj\Debug\ConsoleDirectoryInfo1.pdb

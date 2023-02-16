@@ -1,0 +1,36 @@
+﻿@model IEnumerable<MvcBookWeb.Models.書籍>
+
+@{
+    ViewBag.Title = "首頁";
+    Layout = "~/Views/Shared/_MobileLayout.cshtml";
+}
+
+<div data-role="page" id="Index">
+    <div data-role="header">
+        <h3>碁峰暢銷書籍</h3>
+    </div>
+    <div data-role="content">
+        <ul data-role="listview">
+            @foreach(var item in Model)
+            {
+                <li>
+                    <a href="Details?bookId=@item.書號" data-ajax="false">
+                        <img src="~/images/@item.圖示" />
+                        <h3>@item.書名</h3>
+                        <p>單價：@item.單價</p>
+                    </a>
+                </li>
+            }
+        </ul>
+    </div>
+    <div data-role="footer" data-position="fixed">
+          <div data-role="navbar">
+                <ul>
+                    <li><a href="Index" data-ajax="false">優質書籍</a></li>
+                    <li><a href="#about" data-rel="dialog">關於我們</a></li>
+                </ul>
+          </div>
+          <h3>碁峰資訊-版權所有</h3>
+     </div>
+</div>
+

@@ -1,0 +1,5 @@
+C:\cs2017\ch01\ConsoleEscSeq\bin\Debug\ConsoleEscSeq.exe.config
+C:\cs2017\ch01\ConsoleEscSeq\bin\Debug\ConsoleEscSeq.exe
+C:\cs2017\ch01\ConsoleEscSeq\bin\Debug\ConsoleEscSeq.pdb
+C:\cs2017\ch01\ConsoleEscSeq\obj\Debug\ConsoleEscSeq.exe
+C:\cs2017\ch01\ConsoleEscSeq\obj\Debug\ConsoleEscSeq.pdb

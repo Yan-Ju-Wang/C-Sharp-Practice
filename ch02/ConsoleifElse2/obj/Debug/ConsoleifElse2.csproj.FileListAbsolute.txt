@@ -1,0 +1,5 @@
+C:\cs2017\ch02\ConsoleifElse2\bin\Debug\ConsoleifElse2.exe.config
+C:\cs2017\ch02\ConsoleifElse2\bin\Debug\ConsoleifElse2.exe
+C:\cs2017\ch02\ConsoleifElse2\bin\Debug\ConsoleifElse2.pdb
+C:\cs2017\ch02\ConsoleifElse2\obj\Debug\ConsoleifElse2.exe
+C:\cs2017\ch02\ConsoleifElse2\obj\Debug\ConsoleifElse2.pdb

@@ -1,0 +1,6 @@
+C:\cs2017\ch08\ConsoleThrow1\bin\Debug\ConsoleThrow1.exe.config
+C:\cs2017\ch08\ConsoleThrow1\bin\Debug\ConsoleThrow1.exe
+C:\cs2017\ch08\ConsoleThrow1\bin\Debug\ConsoleThrow1.pdb
+C:\cs2017\ch08\ConsoleThrow1\obj\Debug\ConsoleThrow1.csprojResolveAssemblyReference.cache
+C:\cs2017\ch08\ConsoleThrow1\obj\Debug\ConsoleThrow1.exe
+C:\cs2017\ch08\ConsoleThrow1\obj\Debug\ConsoleThrow1.pdb

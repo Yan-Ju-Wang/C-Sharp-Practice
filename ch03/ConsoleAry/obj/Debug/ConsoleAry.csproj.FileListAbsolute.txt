@@ -1,0 +1,12 @@
+C:\cs2017\ch04\ConsoleAry\bin\Debug\ConsoleAry.exe.config
+C:\cs2017\ch04\ConsoleAry\bin\Debug\ConsoleAry.exe
+C:\cs2017\ch04\ConsoleAry\bin\Debug\ConsoleAry.pdb
+C:\cs2017\ch04\ConsoleAry\obj\Debug\ConsoleAry.csprojResolveAssemblyReference.cache
+C:\cs2017\ch04\ConsoleAry\obj\Debug\ConsoleAry.exe
+C:\cs2017\ch04\ConsoleAry\obj\Debug\ConsoleAry.pdb
+C:\cs2017\ch03\ConsoleAry\bin\Debug\ConsoleAry.exe.config
+C:\cs2017\ch03\ConsoleAry\bin\Debug\ConsoleAry.exe
+C:\cs2017\ch03\ConsoleAry\bin\Debug\ConsoleAry.pdb
+C:\cs2017\ch03\ConsoleAry\obj\Debug\ConsoleAry.csprojResolveAssemblyReference.cache
+C:\cs2017\ch03\ConsoleAry\obj\Debug\ConsoleAry.exe
+C:\cs2017\ch03\ConsoleAry\obj\Debug\ConsoleAry.pdb

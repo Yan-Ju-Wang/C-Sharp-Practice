@@ -1,0 +1,10 @@
+C:\cs2017\ch04\ConsoleMethod4\bin\Debug\ConsoleMethod4.exe.config
+C:\cs2017\ch04\ConsoleMethod4\bin\Debug\ConsoleMethod4.exe
+C:\cs2017\ch04\ConsoleMethod4\bin\Debug\ConsoleMethod4.pdb
+C:\cs2017\ch04\ConsoleMethod4\obj\Debug\ConsoleMethod4.exe
+C:\cs2017\ch04\ConsoleMethod4\obj\Debug\ConsoleMethod4.pdb
+C:\cs2017\ch03\ConsoleMethod4\bin\Debug\ConsoleMethod4.exe.config
+C:\cs2017\ch03\ConsoleMethod4\bin\Debug\ConsoleMethod4.exe
+C:\cs2017\ch03\ConsoleMethod4\bin\Debug\ConsoleMethod4.pdb
+C:\cs2017\ch03\ConsoleMethod4\obj\Debug\ConsoleMethod4.exe
+C:\cs2017\ch03\ConsoleMethod4\obj\Debug\ConsoleMethod4.pdb

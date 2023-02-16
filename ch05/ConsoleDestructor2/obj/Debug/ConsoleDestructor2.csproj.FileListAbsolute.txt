@@ -1,0 +1,5 @@
+C:\cs2017\ch05\ConsoleDestructor2\bin\Debug\ConsoleDetructor2.exe.config
+C:\cs2017\ch05\ConsoleDestructor2\bin\Debug\ConsoleDetructor2.exe
+C:\cs2017\ch05\ConsoleDestructor2\bin\Debug\ConsoleDetructor2.pdb
+C:\cs2017\ch05\ConsoleDestructor2\obj\Debug\ConsoleDetructor2.exe
+C:\cs2017\ch05\ConsoleDestructor2\obj\Debug\ConsoleDetructor2.pdb

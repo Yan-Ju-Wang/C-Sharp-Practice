@@ -1,0 +1,8 @@
+C:\cs2017\ch17\DataTableDemo3\obj\x86\Debug\DataTableDemo3.csprojResolveAssemblyReference.cache
+C:\cs2017\ch17\DataTableDemo3\obj\x86\Debug\DataTableDemo2.Form1.resources
+C:\cs2017\ch17\DataTableDemo3\obj\x86\Debug\DataTableDemo2.Properties.Resources.resources
+C:\cs2017\ch17\DataTableDemo3\obj\x86\Debug\DataTableDemo3.csproj.GenerateResource.Cache
+C:\cs2017\ch17\DataTableDemo3\obj\x86\Debug\DataTableDemo2.exe
+C:\cs2017\ch17\DataTableDemo3\obj\x86\Debug\DataTableDemo2.pdb
+C:\cs2017\ch17\DataTableDemo3\bin\Debug\DataTableDemo2.exe
+C:\cs2017\ch17\DataTableDemo3\bin\Debug\DataTableDemo2.pdb

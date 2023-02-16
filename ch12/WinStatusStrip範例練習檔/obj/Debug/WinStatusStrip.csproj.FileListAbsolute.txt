@@ -1,0 +1,9 @@
+C:\cs2017\ch12\WinStatusStrip範例練習檔\bin\Debug\WinStatusStrip.exe.config
+C:\cs2017\ch12\WinStatusStrip範例練習檔\bin\Debug\WinStatusStrip.exe
+C:\cs2017\ch12\WinStatusStrip範例練習檔\bin\Debug\WinStatusStrip.pdb
+C:\cs2017\ch12\WinStatusStrip範例練習檔\obj\Debug\WinStatusStrip.csprojResolveAssemblyReference.cache
+C:\cs2017\ch12\WinStatusStrip範例練習檔\obj\Debug\WinStatusStrip.Properties.Resources.resources
+C:\cs2017\ch12\WinStatusStrip範例練習檔\obj\Debug\WinStatusStrip.csproj.GenerateResource.Cache
+C:\cs2017\ch12\WinStatusStrip範例練習檔\obj\Debug\WinStatusStrip.exe
+C:\cs2017\ch12\WinStatusStrip範例練習檔\obj\Debug\WinStatusStrip.pdb
+C:\cs2017\ch12\WinStatusStrip範例練習檔\obj\Debug\WinStatusStrip.Form1.resources

@@ -1,0 +1,10 @@
+c:\cs2017\ch06\ConsoleCallPropertyFunction1\bin\Debug\ConsoleCallPropertyFunction1.exe.config
+c:\cs2017\ch06\ConsoleCallPropertyFunction1\bin\Debug\ConsoleCallPropertyFunction1.exe
+c:\cs2017\ch06\ConsoleCallPropertyFunction1\bin\Debug\ConsoleCallPropertyFunction1.pdb
+c:\cs2017\ch06\ConsoleCallPropertyFunction1\obj\Debug\ConsoleCallPropertyFunction1.exe
+c:\cs2017\ch06\ConsoleCallPropertyFunction1\obj\Debug\ConsoleCallPropertyFunction1.pdb
+C:\cs2017\ch05\ConsoleCallPropertyFunction1\bin\Debug\ConsoleCallPropertyFunction1.exe.config
+C:\cs2017\ch05\ConsoleCallPropertyFunction1\bin\Debug\ConsoleCallPropertyFunction1.exe
+C:\cs2017\ch05\ConsoleCallPropertyFunction1\bin\Debug\ConsoleCallPropertyFunction1.pdb
+C:\cs2017\ch05\ConsoleCallPropertyFunction1\obj\Debug\ConsoleCallPropertyFunction1.exe
+C:\cs2017\ch05\ConsoleCallPropertyFunction1\obj\Debug\ConsoleCallPropertyFunction1.pdb

@@ -1,0 +1,12 @@
+C:\cs2017\ch08\ConsoleStack1\bin\Debug\ConsoleStack1.exe.config
+C:\cs2017\ch08\ConsoleStack1\bin\Debug\ConsoleStack1.exe
+C:\cs2017\ch08\ConsoleStack1\bin\Debug\ConsoleStack1.pdb
+C:\cs2017\ch08\ConsoleStack1\obj\Debug\ConsoleStack1.csprojResolveAssemblyReference.cache
+C:\cs2017\ch08\ConsoleStack1\obj\Debug\ConsoleStack1.exe
+C:\cs2017\ch08\ConsoleStack1\obj\Debug\ConsoleStack1.pdb
+C:\cs2017\ch07\ConsoleStack1\bin\Debug\ConsoleStack1.exe.config
+C:\cs2017\ch07\ConsoleStack1\bin\Debug\ConsoleStack1.exe
+C:\cs2017\ch07\ConsoleStack1\bin\Debug\ConsoleStack1.pdb
+C:\cs2017\ch07\ConsoleStack1\obj\Debug\ConsoleStack1.csprojResolveAssemblyReference.cache
+C:\cs2017\ch07\ConsoleStack1\obj\Debug\ConsoleStack1.exe
+C:\cs2017\ch07\ConsoleStack1\obj\Debug\ConsoleStack1.pdb

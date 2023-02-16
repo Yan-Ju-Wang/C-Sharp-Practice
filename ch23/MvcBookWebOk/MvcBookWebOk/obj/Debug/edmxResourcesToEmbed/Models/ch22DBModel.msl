@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ch22DBModelStoreContainer" CdmEntityContainer="ch22DBEntities">
+    <EntitySetMapping Name="書籍">
+      <EntityTypeMapping TypeName="ch22DBModel.書籍">
+        <MappingFragment StoreEntitySet="書籍">
+          <ScalarProperty Name="書號" ColumnName="書號" />
+          <ScalarProperty Name="書名" ColumnName="書名" />
+          <ScalarProperty Name="單價" ColumnName="單價" />
+          <ScalarProperty Name="圖示" ColumnName="圖示" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

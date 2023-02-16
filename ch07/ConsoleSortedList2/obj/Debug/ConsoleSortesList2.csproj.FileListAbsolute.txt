@@ -1,0 +1,10 @@
+C:\cs2017\ch08\ConsoleSortesList2\bin\Debug\ConsoleSortesList2.exe.config
+C:\cs2017\ch08\ConsoleSortesList2\bin\Debug\ConsoleSortesList2.exe
+C:\cs2017\ch08\ConsoleSortesList2\bin\Debug\ConsoleSortesList2.pdb
+C:\cs2017\ch08\ConsoleSortesList2\obj\Debug\ConsoleSortesList2.exe
+C:\cs2017\ch08\ConsoleSortesList2\obj\Debug\ConsoleSortesList2.pdb
+C:\cs2017\ch07\ConsoleSortesList2\bin\Debug\ConsoleSortesList2.exe.config
+C:\cs2017\ch07\ConsoleSortesList2\bin\Debug\ConsoleSortesList2.exe
+C:\cs2017\ch07\ConsoleSortesList2\bin\Debug\ConsoleSortesList2.pdb
+C:\cs2017\ch07\ConsoleSortesList2\obj\Debug\ConsoleSortesList2.exe
+C:\cs2017\ch07\ConsoleSortesList2\obj\Debug\ConsoleSortesList2.pdb

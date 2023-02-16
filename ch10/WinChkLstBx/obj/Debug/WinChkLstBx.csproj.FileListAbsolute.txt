@@ -1,0 +1,9 @@
+C:\cs2017\ch10\WinChkLstBx\obj\Debug\WinChkLstBx.csprojResolveAssemblyReference.cache
+C:\cs2017\ch10\WinChkLstBx\obj\Debug\WinChkLstBx.Form1.resources
+C:\cs2017\ch10\WinChkLstBx\obj\Debug\WinChkLstBx.Properties.Resources.resources
+C:\cs2017\ch10\WinChkLstBx\obj\Debug\WinChkLstBx.csproj.GenerateResource.Cache
+C:\cs2017\ch10\WinChkLstBx\bin\Debug\WinChkLstBx.exe.config
+C:\cs2017\ch10\WinChkLstBx\bin\Debug\WinChkLstBx.exe
+C:\cs2017\ch10\WinChkLstBx\bin\Debug\WinChkLstBx.pdb
+C:\cs2017\ch10\WinChkLstBx\obj\Debug\WinChkLstBx.exe
+C:\cs2017\ch10\WinChkLstBx\obj\Debug\WinChkLstBx.pdb

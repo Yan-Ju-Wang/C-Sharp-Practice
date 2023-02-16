@@ -1,0 +1,10 @@
+C:\cs2017\ch04\ConsoleGetMax\bin\Debug\ConsoleGetMax.exe.config
+C:\cs2017\ch04\ConsoleGetMax\bin\Debug\ConsoleGetMax.exe
+C:\cs2017\ch04\ConsoleGetMax\bin\Debug\ConsoleGetMax.pdb
+C:\cs2017\ch04\ConsoleGetMax\obj\Debug\ConsoleGetMax.exe
+C:\cs2017\ch04\ConsoleGetMax\obj\Debug\ConsoleGetMax.pdb
+C:\cs2017\ch03\ConsoleGetMax\bin\Debug\ConsoleGetMax.exe.config
+C:\cs2017\ch03\ConsoleGetMax\bin\Debug\ConsoleGetMax.exe
+C:\cs2017\ch03\ConsoleGetMax\bin\Debug\ConsoleGetMax.pdb
+C:\cs2017\ch03\ConsoleGetMax\obj\Debug\ConsoleGetMax.exe
+C:\cs2017\ch03\ConsoleGetMax\obj\Debug\ConsoleGetMax.pdb

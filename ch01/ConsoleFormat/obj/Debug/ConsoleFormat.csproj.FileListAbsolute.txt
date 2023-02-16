@@ -1,0 +1,5 @@
+C:\cs2017\ch01\ConsoleFormat\bin\Debug\ConsoleFormat.exe.config
+C:\cs2017\ch01\ConsoleFormat\bin\Debug\ConsoleFormat.exe
+C:\cs2017\ch01\ConsoleFormat\bin\Debug\ConsoleFormat.pdb
+C:\cs2017\ch01\ConsoleFormat\obj\Debug\ConsoleFormat.exe
+C:\cs2017\ch01\ConsoleFormat\obj\Debug\ConsoleFormat.pdb

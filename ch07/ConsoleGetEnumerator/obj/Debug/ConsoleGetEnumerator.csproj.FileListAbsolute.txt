@@ -1,0 +1,12 @@
+C:\cs2017\ch08\ConsoleGetEnumerator\bin\Debug\ConsoleGetEnumerator.exe.config
+C:\cs2017\ch08\ConsoleGetEnumerator\bin\Debug\ConsoleGetEnumerator.exe
+C:\cs2017\ch08\ConsoleGetEnumerator\bin\Debug\ConsoleGetEnumerator.pdb
+C:\cs2017\ch08\ConsoleGetEnumerator\obj\Debug\ConsoleGetEnumerator.csprojResolveAssemblyReference.cache
+C:\cs2017\ch08\ConsoleGetEnumerator\obj\Debug\ConsoleGetEnumerator.exe
+C:\cs2017\ch08\ConsoleGetEnumerator\obj\Debug\ConsoleGetEnumerator.pdb
+C:\cs2017\ch07\ConsoleGetEnumerator\bin\Debug\ConsoleGetEnumerator.exe.config
+C:\cs2017\ch07\ConsoleGetEnumerator\bin\Debug\ConsoleGetEnumerator.exe
+C:\cs2017\ch07\ConsoleGetEnumerator\bin\Debug\ConsoleGetEnumerator.pdb
+C:\cs2017\ch07\ConsoleGetEnumerator\obj\Debug\ConsoleGetEnumerator.csprojResolveAssemblyReference.cache
+C:\cs2017\ch07\ConsoleGetEnumerator\obj\Debug\ConsoleGetEnumerator.exe
+C:\cs2017\ch07\ConsoleGetEnumerator\obj\Debug\ConsoleGetEnumerator.pdb

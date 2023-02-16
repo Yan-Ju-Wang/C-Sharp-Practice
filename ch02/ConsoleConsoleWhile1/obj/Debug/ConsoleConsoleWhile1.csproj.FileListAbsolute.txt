@@ -1,0 +1,5 @@
+C:\cs2017\ch02\ConsoleConsoleWhile1\bin\Debug\ConsoleConsoleWhile1.exe.config
+C:\cs2017\ch02\ConsoleConsoleWhile1\bin\Debug\ConsoleConsoleWhile1.exe
+C:\cs2017\ch02\ConsoleConsoleWhile1\bin\Debug\ConsoleConsoleWhile1.pdb
+C:\cs2017\ch02\ConsoleConsoleWhile1\obj\Debug\ConsoleConsoleWhile1.exe
+C:\cs2017\ch02\ConsoleConsoleWhile1\obj\Debug\ConsoleConsoleWhile1.pdb

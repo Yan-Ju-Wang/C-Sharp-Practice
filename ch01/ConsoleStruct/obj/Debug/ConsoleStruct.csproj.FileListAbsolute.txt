@@ -1,0 +1,5 @@
+C:\cs2017\ch01\ConsoleStruct\bin\Debug\ConsoleStruct.exe.config
+C:\cs2017\ch01\ConsoleStruct\bin\Debug\ConsoleStruct.exe
+C:\cs2017\ch01\ConsoleStruct\bin\Debug\ConsoleStruct.pdb
+C:\cs2017\ch01\ConsoleStruct\obj\Debug\ConsoleStruct.exe
+C:\cs2017\ch01\ConsoleStruct\obj\Debug\ConsoleStruct.pdb

@@ -1,0 +1,10 @@
+C:\cs2017\ch04\ConsoleAryForEach2\bin\Debug\ConsoleAryForEach2.exe.config
+C:\cs2017\ch04\ConsoleAryForEach2\bin\Debug\ConsoleAryForEach2.exe
+C:\cs2017\ch04\ConsoleAryForEach2\bin\Debug\ConsoleAryForEach2.pdb
+C:\cs2017\ch04\ConsoleAryForEach2\obj\Debug\ConsoleAryForEach2.exe
+C:\cs2017\ch04\ConsoleAryForEach2\obj\Debug\ConsoleAryForEach2.pdb
+C:\cs2017\ch03\ConsoleAryForEach2\bin\Debug\ConsoleAryForEach2.exe.config
+C:\cs2017\ch03\ConsoleAryForEach2\bin\Debug\ConsoleAryForEach2.exe
+C:\cs2017\ch03\ConsoleAryForEach2\bin\Debug\ConsoleAryForEach2.pdb
+C:\cs2017\ch03\ConsoleAryForEach2\obj\Debug\ConsoleAryForEach2.exe
+C:\cs2017\ch03\ConsoleAryForEach2\obj\Debug\ConsoleAryForEach2.pdb

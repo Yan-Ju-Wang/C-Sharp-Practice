@@ -1,0 +1,5 @@
+C:\cs2017\ch01\ConsoleEnum\bin\Debug\ConsoleEnum.exe.config
+C:\cs2017\ch01\ConsoleEnum\bin\Debug\ConsoleEnum.exe
+C:\cs2017\ch01\ConsoleEnum\bin\Debug\ConsoleEnum.pdb
+C:\cs2017\ch01\ConsoleEnum\obj\Debug\ConsoleEnum.exe
+C:\cs2017\ch01\ConsoleEnum\obj\Debug\ConsoleEnum.pdb

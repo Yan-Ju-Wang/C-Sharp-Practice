@@ -1,0 +1,8 @@
+C:\cs2017\ch13\WinAddRemoveEvent\bin\Debug\WinAddRemoveEvent.exe.config
+C:\cs2017\ch13\WinAddRemoveEvent\bin\Debug\WinAddRemoveEvent.exe
+C:\cs2017\ch13\WinAddRemoveEvent\bin\Debug\WinAddRemoveEvent.pdb
+C:\cs2017\ch13\WinAddRemoveEvent\obj\Debug\WinAddRemoveEvent.Form1.resources
+C:\cs2017\ch13\WinAddRemoveEvent\obj\Debug\WinAddRemoveEvent.Properties.Resources.resources
+C:\cs2017\ch13\WinAddRemoveEvent\obj\Debug\WinAddRemoveEvent.csproj.GenerateResource.Cache
+C:\cs2017\ch13\WinAddRemoveEvent\obj\Debug\WinAddRemoveEvent.exe
+C:\cs2017\ch13\WinAddRemoveEvent\obj\Debug\WinAddRemoveEvent.pdb

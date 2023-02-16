@@ -1,0 +1,10 @@
+C:\cs2017\ch08\ConsoleDictionary1\bin\Debug\ConsoleDictionary1.exe.config
+C:\cs2017\ch08\ConsoleDictionary1\bin\Debug\ConsoleDictionary1.exe
+C:\cs2017\ch08\ConsoleDictionary1\bin\Debug\ConsoleDictionary1.pdb
+C:\cs2017\ch08\ConsoleDictionary1\obj\Debug\ConsoleDictionary1.exe
+C:\cs2017\ch08\ConsoleDictionary1\obj\Debug\ConsoleDictionary1.pdb
+C:\cs2017\ch07\ConsoleDictionary1\bin\Debug\ConsoleDictionary1.exe.config
+C:\cs2017\ch07\ConsoleDictionary1\bin\Debug\ConsoleDictionary1.exe
+C:\cs2017\ch07\ConsoleDictionary1\bin\Debug\ConsoleDictionary1.pdb
+C:\cs2017\ch07\ConsoleDictionary1\obj\Debug\ConsoleDictionary1.exe
+C:\cs2017\ch07\ConsoleDictionary1\obj\Debug\ConsoleDictionary1.pdb

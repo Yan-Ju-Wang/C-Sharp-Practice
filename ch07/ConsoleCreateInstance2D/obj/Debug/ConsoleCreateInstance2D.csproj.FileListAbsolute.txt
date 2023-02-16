@@ -1,0 +1,10 @@
+C:\cs2017\ch08\ConsoleCreateInstance2D\bin\Debug\ConsoleCreateInstance2D.exe.config
+C:\cs2017\ch08\ConsoleCreateInstance2D\bin\Debug\ConsoleCreateInstance2D.exe
+C:\cs2017\ch08\ConsoleCreateInstance2D\bin\Debug\ConsoleCreateInstance2D.pdb
+C:\cs2017\ch08\ConsoleCreateInstance2D\obj\Debug\ConsoleCreateInstance2D.exe
+C:\cs2017\ch08\ConsoleCreateInstance2D\obj\Debug\ConsoleCreateInstance2D.pdb
+C:\cs2017\ch07\ConsoleCreateInstance2D\bin\Debug\ConsoleCreateInstance2D.exe.config
+C:\cs2017\ch07\ConsoleCreateInstance2D\bin\Debug\ConsoleCreateInstance2D.exe
+C:\cs2017\ch07\ConsoleCreateInstance2D\bin\Debug\ConsoleCreateInstance2D.pdb
+C:\cs2017\ch07\ConsoleCreateInstance2D\obj\Debug\ConsoleCreateInstance2D.exe
+C:\cs2017\ch07\ConsoleCreateInstance2D\obj\Debug\ConsoleCreateInstance2D.pdb

@@ -1,0 +1,9 @@
+C:\cs2017\ch11\WinTrackBar\bin\Debug\WinTrackBar.exe.config
+C:\cs2017\ch11\WinTrackBar\bin\Debug\WinTrackBar.exe
+C:\cs2017\ch11\WinTrackBar\bin\Debug\WinTrackBar.pdb
+C:\cs2017\ch11\WinTrackBar\obj\Debug\WinTrackBar.csprojResolveAssemblyReference.cache
+C:\cs2017\ch11\WinTrackBar\obj\Debug\WinTrackBar.Form1.resources
+C:\cs2017\ch11\WinTrackBar\obj\Debug\WinTrackBar.Properties.Resources.resources
+C:\cs2017\ch11\WinTrackBar\obj\Debug\WinTrackBar.csproj.GenerateResource.Cache
+C:\cs2017\ch11\WinTrackBar\obj\Debug\WinTrackBar.exe
+C:\cs2017\ch11\WinTrackBar\obj\Debug\WinTrackBar.pdb

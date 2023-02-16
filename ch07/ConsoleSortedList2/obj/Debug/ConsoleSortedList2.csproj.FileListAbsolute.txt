@@ -1,0 +1,6 @@
+C:\cs2017\ch07\ConsoleSortedList2\bin\Debug\ConsoleSortesList2.exe.config
+C:\cs2017\ch07\ConsoleSortedList2\bin\Debug\ConsoleSortesList2.exe
+C:\cs2017\ch07\ConsoleSortedList2\bin\Debug\ConsoleSortesList2.pdb
+C:\cs2017\ch07\ConsoleSortedList2\obj\Debug\ConsoleSortedList2.csprojResolveAssemblyReference.cache
+C:\cs2017\ch07\ConsoleSortedList2\obj\Debug\ConsoleSortesList2.exe
+C:\cs2017\ch07\ConsoleSortedList2\obj\Debug\ConsoleSortesList2.pdb

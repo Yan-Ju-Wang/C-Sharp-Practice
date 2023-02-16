@@ -1,0 +1,9 @@
+C:\cs2017\ch09\WinTextBox1\bin\Debug\WinTextBox1.exe.config
+C:\cs2017\ch09\WinTextBox1\bin\Debug\WinTextBox1.exe
+C:\cs2017\ch09\WinTextBox1\bin\Debug\WinTextBox1.pdb
+C:\cs2017\ch09\WinTextBox1\obj\Debug\WinTextBox1.csprojResolveAssemblyReference.cache
+C:\cs2017\ch09\WinTextBox1\obj\Debug\WinTextBox1.Form1.resources
+C:\cs2017\ch09\WinTextBox1\obj\Debug\WinTextBox1.Properties.Resources.resources
+C:\cs2017\ch09\WinTextBox1\obj\Debug\WinTextBox1.csproj.GenerateResource.Cache
+C:\cs2017\ch09\WinTextBox1\obj\Debug\WinTextBox1.exe
+C:\cs2017\ch09\WinTextBox1\obj\Debug\WinTextBox1.pdb

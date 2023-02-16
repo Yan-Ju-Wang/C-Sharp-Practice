@@ -1,0 +1,5 @@
+C:\cs2017\ch02\ConsoleSwitch1\bin\Debug\ConsoleSwitch1.exe.config
+C:\cs2017\ch02\ConsoleSwitch1\bin\Debug\ConsoleSwitch1.exe
+C:\cs2017\ch02\ConsoleSwitch1\bin\Debug\ConsoleSwitch1.pdb
+C:\cs2017\ch02\ConsoleSwitch1\obj\Debug\ConsoleSwitch1.exe
+C:\cs2017\ch02\ConsoleSwitch1\obj\Debug\ConsoleSwitch1.pdb

@@ -1,0 +1,12 @@
+C:\cs2017\ch04\ConsoleAmount\bin\Debug\ConsoleAmount.exe.config
+C:\cs2017\ch04\ConsoleAmount\bin\Debug\ConsoleAmount.exe
+C:\cs2017\ch04\ConsoleAmount\bin\Debug\ConsoleAmount.pdb
+C:\cs2017\ch04\ConsoleAmount\obj\Debug\ConsoleAmount.csprojResolveAssemblyReference.cache
+C:\cs2017\ch04\ConsoleAmount\obj\Debug\ConsoleAmount.exe
+C:\cs2017\ch04\ConsoleAmount\obj\Debug\ConsoleAmount.pdb
+C:\cs2017\ch03\ConsoleAmount\bin\Debug\ConsoleAmount.exe.config
+C:\cs2017\ch03\ConsoleAmount\bin\Debug\ConsoleAmount.exe
+C:\cs2017\ch03\ConsoleAmount\bin\Debug\ConsoleAmount.pdb
+C:\cs2017\ch03\ConsoleAmount\obj\Debug\ConsoleAmount.csprojResolveAssemblyReference.cache
+C:\cs2017\ch03\ConsoleAmount\obj\Debug\ConsoleAmount.exe
+C:\cs2017\ch03\ConsoleAmount\obj\Debug\ConsoleAmount.pdb

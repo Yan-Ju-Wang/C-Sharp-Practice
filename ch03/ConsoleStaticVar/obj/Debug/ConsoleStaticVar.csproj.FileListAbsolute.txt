@@ -1,0 +1,10 @@
+C:\cs2017\ch04\ConsoleStaticVar\bin\Debug\ConsoleStaticVar.exe.config
+C:\cs2017\ch04\ConsoleStaticVar\bin\Debug\ConsoleStaticVar.exe
+C:\cs2017\ch04\ConsoleStaticVar\bin\Debug\ConsoleStaticVar.pdb
+C:\cs2017\ch04\ConsoleStaticVar\obj\Debug\ConsoleStaticVar.exe
+C:\cs2017\ch04\ConsoleStaticVar\obj\Debug\ConsoleStaticVar.pdb
+C:\cs2017\ch03\ConsoleStaticVar\bin\Debug\ConsoleStaticVar.exe.config
+C:\cs2017\ch03\ConsoleStaticVar\bin\Debug\ConsoleStaticVar.exe
+C:\cs2017\ch03\ConsoleStaticVar\bin\Debug\ConsoleStaticVar.pdb
+C:\cs2017\ch03\ConsoleStaticVar\obj\Debug\ConsoleStaticVar.exe
+C:\cs2017\ch03\ConsoleStaticVar\obj\Debug\ConsoleStaticVar.pdb

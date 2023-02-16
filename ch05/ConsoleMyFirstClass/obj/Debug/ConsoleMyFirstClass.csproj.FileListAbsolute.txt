@@ -1,0 +1,12 @@
+C:\cs2017\ch06\ConsoleMyFirstClass\bin\Debug\ConsoleMyFirstClass.exe.config
+C:\cs2017\ch06\ConsoleMyFirstClass\bin\Debug\ConsoleMyFirstClass.exe
+C:\cs2017\ch06\ConsoleMyFirstClass\bin\Debug\ConsoleMyFirstClass.pdb
+C:\cs2017\ch06\ConsoleMyFirstClass\obj\Debug\ConsoleMyFirstClass.csprojResolveAssemblyReference.cache
+C:\cs2017\ch06\ConsoleMyFirstClass\obj\Debug\ConsoleMyFirstClass.exe
+C:\cs2017\ch06\ConsoleMyFirstClass\obj\Debug\ConsoleMyFirstClass.pdb
+C:\cs2017\ch05\ConsoleMyFirstClass\bin\Debug\ConsoleMyFirstClass.exe.config
+C:\cs2017\ch05\ConsoleMyFirstClass\bin\Debug\ConsoleMyFirstClass.exe
+C:\cs2017\ch05\ConsoleMyFirstClass\bin\Debug\ConsoleMyFirstClass.pdb
+C:\cs2017\ch05\ConsoleMyFirstClass\obj\Debug\ConsoleMyFirstClass.csprojResolveAssemblyReference.cache
+C:\cs2017\ch05\ConsoleMyFirstClass\obj\Debug\ConsoleMyFirstClass.exe
+C:\cs2017\ch05\ConsoleMyFirstClass\obj\Debug\ConsoleMyFirstClass.pdb

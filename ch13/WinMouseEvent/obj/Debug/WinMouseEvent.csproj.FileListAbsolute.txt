@@ -1,0 +1,9 @@
+C:\cs2017\ch13\WinMouseEvent\obj\Debug\WinMouseEvent.csprojResolveAssemblyReference.cache
+C:\cs2017\ch13\WinMouseEvent\obj\Debug\WinMouseEvent.Form1.resources
+C:\cs2017\ch13\WinMouseEvent\obj\Debug\WinMouseEvent.Properties.Resources.resources
+C:\cs2017\ch13\WinMouseEvent\obj\Debug\WinMouseEvent.csproj.GenerateResource.Cache
+C:\cs2017\ch13\WinMouseEvent\bin\Debug\WinMouseEvent.exe.config
+C:\cs2017\ch13\WinMouseEvent\bin\Debug\WinMouseEvent.exe
+C:\cs2017\ch13\WinMouseEvent\bin\Debug\WinMouseEvent.pdb
+C:\cs2017\ch13\WinMouseEvent\obj\Debug\WinMouseEvent.exe
+C:\cs2017\ch13\WinMouseEvent\obj\Debug\WinMouseEvent.pdb

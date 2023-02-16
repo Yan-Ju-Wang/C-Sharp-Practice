@@ -1,0 +1,5 @@
+C:\cs2017\ch03\ConsoleMethod2\bin\Debug\ConsoleMethod2.exe.config
+C:\cs2017\ch03\ConsoleMethod2\bin\Debug\ConsoleMethod2.exe
+C:\cs2017\ch03\ConsoleMethod2\bin\Debug\ConsoleMethod2.pdb
+C:\cs2017\ch03\ConsoleMethod2\obj\Debug\ConsoleMethod2.exe
+C:\cs2017\ch03\ConsoleMethod2\obj\Debug\ConsoleMethod2.pdb

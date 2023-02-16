@@ -1,0 +1,9 @@
+C:\cs2017\ch09\WinButton1\bin\Debug\WinButton1.exe.config
+C:\cs2017\ch09\WinButton1\bin\Debug\WinButton1.exe
+C:\cs2017\ch09\WinButton1\bin\Debug\WinButton1.pdb
+C:\cs2017\ch09\WinButton1\obj\Debug\WinButton1.csprojResolveAssemblyReference.cache
+C:\cs2017\ch09\WinButton1\obj\Debug\WinButton1.Form1.resources
+C:\cs2017\ch09\WinButton1\obj\Debug\WinButton1.Properties.Resources.resources
+C:\cs2017\ch09\WinButton1\obj\Debug\WinButton1.csproj.GenerateResource.Cache
+C:\cs2017\ch09\WinButton1\obj\Debug\WinButton1.exe
+C:\cs2017\ch09\WinButton1\obj\Debug\WinButton1.pdb

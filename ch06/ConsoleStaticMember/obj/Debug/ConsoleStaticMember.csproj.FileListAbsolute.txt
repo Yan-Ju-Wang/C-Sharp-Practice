@@ -1,0 +1,12 @@
+C:\cs2017\ch07\ConsoleStaticMember\bin\Debug\ConsoleStaticMember.exe.config
+C:\cs2017\ch07\ConsoleStaticMember\bin\Debug\ConsoleStaticMember.exe
+C:\cs2017\ch07\ConsoleStaticMember\bin\Debug\ConsoleStaticMember.pdb
+C:\cs2017\ch07\ConsoleStaticMember\obj\Debug\ConsoleStaticMember.exe
+C:\cs2017\ch07\ConsoleStaticMember\obj\Debug\ConsoleStaticMember.pdb
+C:\cs2017\ch07\ConsoleStaticMember\obj\Debug\ConsoleStaticMember.csprojResolveAssemblyReference.cache
+C:\cs2017\ch06\ConsoleStaticMember\bin\Debug\ConsoleStaticMember.exe.config
+C:\cs2017\ch06\ConsoleStaticMember\bin\Debug\ConsoleStaticMember.exe
+C:\cs2017\ch06\ConsoleStaticMember\bin\Debug\ConsoleStaticMember.pdb
+C:\cs2017\ch06\ConsoleStaticMember\obj\Debug\ConsoleStaticMember.csprojResolveAssemblyReference.cache
+C:\cs2017\ch06\ConsoleStaticMember\obj\Debug\ConsoleStaticMember.exe
+C:\cs2017\ch06\ConsoleStaticMember\obj\Debug\ConsoleStaticMember.pdb

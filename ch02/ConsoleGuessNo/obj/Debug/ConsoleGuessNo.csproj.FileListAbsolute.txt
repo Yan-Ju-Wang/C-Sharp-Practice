@@ -1,0 +1,5 @@
+C:\cs2017\ch02\ConsoleGuessNo\bin\Debug\ConsoleGuessNo.exe.config
+C:\cs2017\ch02\ConsoleGuessNo\bin\Debug\ConsoleGuessNo.exe
+C:\cs2017\ch02\ConsoleGuessNo\bin\Debug\ConsoleGuessNo.pdb
+C:\cs2017\ch02\ConsoleGuessNo\obj\Debug\ConsoleGuessNo.exe
+C:\cs2017\ch02\ConsoleGuessNo\obj\Debug\ConsoleGuessNo.pdb

@@ -1,0 +1,5 @@
+C:\cs2017\ch02\ConsoleFor1\bin\Debug\ConsoleFor1.exe.config
+C:\cs2017\ch02\ConsoleFor1\bin\Debug\ConsoleFor1.exe
+C:\cs2017\ch02\ConsoleFor1\bin\Debug\ConsoleFor1.pdb
+C:\cs2017\ch02\ConsoleFor1\obj\Debug\ConsoleFor1.exe
+C:\cs2017\ch02\ConsoleFor1\obj\Debug\ConsoleFor1.pdb

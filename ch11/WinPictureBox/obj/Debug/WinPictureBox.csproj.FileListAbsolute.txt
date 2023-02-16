@@ -1,0 +1,9 @@
+C:\cs2017\ch11\WinPictureBox\bin\Debug\WinPictureBox.exe.config
+C:\cs2017\ch11\WinPictureBox\bin\Debug\WinPictureBox.exe
+C:\cs2017\ch11\WinPictureBox\bin\Debug\WinPictureBox.pdb
+C:\cs2017\ch11\WinPictureBox\obj\Debug\WinPictureBox.csprojResolveAssemblyReference.cache
+C:\cs2017\ch11\WinPictureBox\obj\Debug\WinPictureBox.Form1.resources
+C:\cs2017\ch11\WinPictureBox\obj\Debug\WinPictureBox.Properties.Resources.resources
+C:\cs2017\ch11\WinPictureBox\obj\Debug\WinPictureBox.csproj.GenerateResource.Cache
+C:\cs2017\ch11\WinPictureBox\obj\Debug\WinPictureBox.exe
+C:\cs2017\ch11\WinPictureBox\obj\Debug\WinPictureBox.pdb

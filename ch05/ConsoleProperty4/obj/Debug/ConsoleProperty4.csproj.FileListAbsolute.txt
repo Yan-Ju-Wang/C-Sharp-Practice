@@ -1,0 +1,10 @@
+c:\users\jane\documents\visual studio 2017\Projects\ConsoleProperty4\bin\Debug\ConsoleProperty4.exe.config
+c:\users\jane\documents\visual studio 2017\Projects\ConsoleProperty4\bin\Debug\ConsoleProperty4.exe
+c:\users\jane\documents\visual studio 2017\Projects\ConsoleProperty4\bin\Debug\ConsoleProperty4.pdb
+c:\users\jane\documents\visual studio 2017\Projects\ConsoleProperty4\obj\Debug\ConsoleProperty4.exe
+c:\users\jane\documents\visual studio 2017\Projects\ConsoleProperty4\obj\Debug\ConsoleProperty4.pdb
+C:\cs2017\ch05\ConsoleProperty4\bin\Debug\ConsoleProperty4.exe.config
+C:\cs2017\ch05\ConsoleProperty4\bin\Debug\ConsoleProperty4.exe
+C:\cs2017\ch05\ConsoleProperty4\bin\Debug\ConsoleProperty4.pdb
+C:\cs2017\ch05\ConsoleProperty4\obj\Debug\ConsoleProperty4.exe
+C:\cs2017\ch05\ConsoleProperty4\obj\Debug\ConsoleProperty4.pdb

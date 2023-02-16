@@ -1,0 +1,9 @@
+C:\cs2017\ch13\WinKeyPress KeyDown Test\bin\Debug\WinKeyPress KeyDown Test.exe.config
+C:\cs2017\ch13\WinKeyPress KeyDown Test\bin\Debug\WinKeyPress KeyDown Test.exe
+C:\cs2017\ch13\WinKeyPress KeyDown Test\bin\Debug\WinKeyPress KeyDown Test.pdb
+C:\cs2017\ch13\WinKeyPress KeyDown Test\obj\Debug\WinKeyPress KeyDown Test.csprojResolveAssemblyReference.cache
+C:\cs2017\ch13\WinKeyPress KeyDown Test\obj\Debug\WinKeyPress_KeyDown_Test.Form1.resources
+C:\cs2017\ch13\WinKeyPress KeyDown Test\obj\Debug\WinKeyPress_KeyDown_Test.Properties.Resources.resources
+C:\cs2017\ch13\WinKeyPress KeyDown Test\obj\Debug\WinKeyPress KeyDown Test.csproj.GenerateResource.Cache
+C:\cs2017\ch13\WinKeyPress KeyDown Test\obj\Debug\WinKeyPress KeyDown Test.exe
+C:\cs2017\ch13\WinKeyPress KeyDown Test\obj\Debug\WinKeyPress KeyDown Test.pdb

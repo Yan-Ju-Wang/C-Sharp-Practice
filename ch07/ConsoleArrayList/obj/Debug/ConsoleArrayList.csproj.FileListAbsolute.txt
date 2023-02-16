@@ -1,0 +1,12 @@
+C:\cs2017\ch08\ConsoleArrayList\bin\Debug\ConsoleArrayList.exe.config
+C:\cs2017\ch08\ConsoleArrayList\bin\Debug\ConsoleArrayList.exe
+C:\cs2017\ch08\ConsoleArrayList\bin\Debug\ConsoleArrayList.pdb
+C:\cs2017\ch08\ConsoleArrayList\obj\Debug\ConsoleArrayList.exe
+C:\cs2017\ch08\ConsoleArrayList\obj\Debug\ConsoleArrayList.pdb
+C:\cs2017\ch08\ConsoleArrayList\obj\Debug\ConsoleArrayList.csprojResolveAssemblyReference.cache
+C:\cs2017\ch07\ConsoleArrayList\bin\Debug\ConsoleArrayList.exe.config
+C:\cs2017\ch07\ConsoleArrayList\bin\Debug\ConsoleArrayList.exe
+C:\cs2017\ch07\ConsoleArrayList\bin\Debug\ConsoleArrayList.pdb
+C:\cs2017\ch07\ConsoleArrayList\obj\Debug\ConsoleArrayList.csprojResolveAssemblyReference.cache
+C:\cs2017\ch07\ConsoleArrayList\obj\Debug\ConsoleArrayList.exe
+C:\cs2017\ch07\ConsoleArrayList\obj\Debug\ConsoleArrayList.pdb

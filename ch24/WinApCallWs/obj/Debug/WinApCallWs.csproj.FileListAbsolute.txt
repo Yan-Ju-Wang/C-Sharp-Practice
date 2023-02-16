@@ -1,0 +1,9 @@
+C:\cs2017\ch24\WinApCallWs\bin\Debug\WinApCallWs.exe.config
+C:\cs2017\ch24\WinApCallWs\bin\Debug\WinApCallWs.exe
+C:\cs2017\ch24\WinApCallWs\bin\Debug\WinApCallWs.pdb
+C:\cs2017\ch24\WinApCallWs\obj\Debug\WinApCallWs.csprojResolveAssemblyReference.cache
+C:\cs2017\ch24\WinApCallWs\obj\Debug\WinApCallWs.Form1.resources
+C:\cs2017\ch24\WinApCallWs\obj\Debug\WinApCallWs.Properties.Resources.resources
+C:\cs2017\ch24\WinApCallWs\obj\Debug\WinApCallWs.csproj.GenerateResource.Cache
+C:\cs2017\ch24\WinApCallWs\obj\Debug\WinApCallWs.exe
+C:\cs2017\ch24\WinApCallWs\obj\Debug\WinApCallWs.pdb

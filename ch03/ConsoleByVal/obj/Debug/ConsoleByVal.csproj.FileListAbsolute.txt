@@ -1,0 +1,10 @@
+C:\cs2017\ch04\ConsoleByVal\bin\Debug\ConsoleByVal.exe.config
+C:\cs2017\ch04\ConsoleByVal\bin\Debug\ConsoleByVal.exe
+C:\cs2017\ch04\ConsoleByVal\bin\Debug\ConsoleByVal.pdb
+C:\cs2017\ch04\ConsoleByVal\obj\Debug\ConsoleByVal.exe
+C:\cs2017\ch04\ConsoleByVal\obj\Debug\ConsoleByVal.pdb
+C:\cs2017\ch03\ConsoleByVal\bin\Debug\ConsoleByVal.exe.config
+C:\cs2017\ch03\ConsoleByVal\bin\Debug\ConsoleByVal.exe
+C:\cs2017\ch03\ConsoleByVal\bin\Debug\ConsoleByVal.pdb
+C:\cs2017\ch03\ConsoleByVal\obj\Debug\ConsoleByVal.exe
+C:\cs2017\ch03\ConsoleByVal\obj\Debug\ConsoleByVal.pdb

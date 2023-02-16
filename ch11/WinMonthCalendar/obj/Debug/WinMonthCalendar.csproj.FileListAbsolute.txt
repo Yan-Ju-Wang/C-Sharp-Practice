@@ -1,0 +1,8 @@
+C:\cs2017\ch11\WinMonthCalendar\bin\Debug\WinMonthCalendar.exe.config
+C:\cs2017\ch11\WinMonthCalendar\bin\Debug\WinMonthCalendar.exe
+C:\cs2017\ch11\WinMonthCalendar\bin\Debug\WinMonthCalendar.pdb
+C:\cs2017\ch11\WinMonthCalendar\obj\Debug\WinMonthCalendar.Form1.resources
+C:\cs2017\ch11\WinMonthCalendar\obj\Debug\WinMonthCalendar.Properties.Resources.resources
+C:\cs2017\ch11\WinMonthCalendar\obj\Debug\WinMonthCalendar.csproj.GenerateResource.Cache
+C:\cs2017\ch11\WinMonthCalendar\obj\Debug\WinMonthCalendar.exe
+C:\cs2017\ch11\WinMonthCalendar\obj\Debug\WinMonthCalendar.pdb

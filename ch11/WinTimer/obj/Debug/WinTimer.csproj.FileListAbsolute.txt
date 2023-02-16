@@ -1,0 +1,9 @@
+C:\cs2017\ch11\WinTimer\bin\Debug\WinTimer.exe.config
+C:\cs2017\ch11\WinTimer\bin\Debug\WinTimer.exe
+C:\cs2017\ch11\WinTimer\bin\Debug\WinTimer.pdb
+C:\cs2017\ch11\WinTimer\obj\Debug\WinTimer.csprojResolveAssemblyReference.cache
+C:\cs2017\ch11\WinTimer\obj\Debug\WinTimer.Form1.resources
+C:\cs2017\ch11\WinTimer\obj\Debug\WinTimer.Properties.Resources.resources
+C:\cs2017\ch11\WinTimer\obj\Debug\WinTimer.csproj.GenerateResource.Cache
+C:\cs2017\ch11\WinTimer\obj\Debug\WinTimer.exe
+C:\cs2017\ch11\WinTimer\obj\Debug\WinTimer.pdb

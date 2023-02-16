@@ -1,0 +1,9 @@
+C:\cs2017\ch10\WinGroupBox\bin\Debug\WinGroupBox.exe.config
+C:\cs2017\ch10\WinGroupBox\bin\Debug\WinGroupBox.exe
+C:\cs2017\ch10\WinGroupBox\bin\Debug\WinGroupBox.pdb
+C:\cs2017\ch10\WinGroupBox\obj\Debug\WinGroupBox.Form1.resources
+C:\cs2017\ch10\WinGroupBox\obj\Debug\WinGroupBox.Properties.Resources.resources
+C:\cs2017\ch10\WinGroupBox\obj\Debug\WinGroupBox.csproj.GenerateResource.Cache
+C:\cs2017\ch10\WinGroupBox\obj\Debug\WinGroupBox.exe
+C:\cs2017\ch10\WinGroupBox\obj\Debug\WinGroupBox.pdb
+C:\cs2017\ch10\WinGroupBox\obj\Debug\WinGroupBox.csprojResolveAssemblyReference.cache

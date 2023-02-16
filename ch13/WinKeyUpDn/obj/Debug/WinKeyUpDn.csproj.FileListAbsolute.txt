@@ -1,0 +1,9 @@
+C:\cs2017\ch13\WinKeyUpDn\obj\Debug\WinKeyUpDn.csprojResolveAssemblyReference.cache
+C:\cs2017\ch13\WinKeyUpDn\obj\Debug\WinKeyUpDn.Form1.resources
+C:\cs2017\ch13\WinKeyUpDn\obj\Debug\WinKeyUpDn.Properties.Resources.resources
+C:\cs2017\ch13\WinKeyUpDn\obj\Debug\WinKeyUpDn.csproj.GenerateResource.Cache
+C:\cs2017\ch13\WinKeyUpDn\bin\Debug\WinKeyUpDn.exe.config
+C:\cs2017\ch13\WinKeyUpDn\bin\Debug\WinKeyUpDn.exe
+C:\cs2017\ch13\WinKeyUpDn\bin\Debug\WinKeyUpDn.pdb
+C:\cs2017\ch13\WinKeyUpDn\obj\Debug\WinKeyUpDn.exe
+C:\cs2017\ch13\WinKeyUpDn\obj\Debug\WinKeyUpDn.pdb

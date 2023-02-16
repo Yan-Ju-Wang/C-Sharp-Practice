@@ -1,0 +1,9 @@
+C:\cs2017\ch12\WinStatusStrip\bin\Debug\WinStatusStrip.exe.config
+C:\cs2017\ch12\WinStatusStrip\bin\Debug\WinStatusStrip.exe
+C:\cs2017\ch12\WinStatusStrip\bin\Debug\WinStatusStrip.pdb
+C:\cs2017\ch12\WinStatusStrip\obj\Debug\WinStatusStrip.csprojResolveAssemblyReference.cache
+C:\cs2017\ch12\WinStatusStrip\obj\Debug\WinStatusStrip.Form1.resources
+C:\cs2017\ch12\WinStatusStrip\obj\Debug\WinStatusStrip.Properties.Resources.resources
+C:\cs2017\ch12\WinStatusStrip\obj\Debug\WinStatusStrip.csproj.GenerateResource.Cache
+C:\cs2017\ch12\WinStatusStrip\obj\Debug\WinStatusStrip.exe
+C:\cs2017\ch12\WinStatusStrip\obj\Debug\WinStatusStrip.pdb

@@ -1,0 +1,6 @@
+C:\cs2017\ch08\ConsoleReadWrite\bin\Debug\ConsoleReadWrite.exe.config
+C:\cs2017\ch08\ConsoleReadWrite\bin\Debug\ConsoleReadWrite.exe
+C:\cs2017\ch08\ConsoleReadWrite\bin\Debug\ConsoleReadWrite.pdb
+C:\cs2017\ch08\ConsoleReadWrite\obj\Debug\ConsoleReadWrite.csprojResolveAssemblyReference.cache
+C:\cs2017\ch08\ConsoleReadWrite\obj\Debug\ConsoleReadWrite.exe
+C:\cs2017\ch08\ConsoleReadWrite\obj\Debug\ConsoleReadWrite.pdb

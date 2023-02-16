@@ -1,0 +1,12 @@
+C:\cs2017\ch06\ConsoleDestructor1\bin\Debug\ConsoleDestructor1.exe.config
+C:\cs2017\ch06\ConsoleDestructor1\bin\Debug\ConsoleDestructor1.exe
+C:\cs2017\ch06\ConsoleDestructor1\bin\Debug\ConsoleDestructor1.pdb
+C:\cs2017\ch06\ConsoleDestructor1\obj\Debug\ConsoleDestructor1.csprojResolveAssemblyReference.cache
+C:\cs2017\ch06\ConsoleDestructor1\obj\Debug\ConsoleDestructor1.exe
+C:\cs2017\ch06\ConsoleDestructor1\obj\Debug\ConsoleDestructor1.pdb
+C:\cs2017\ch05\ConsoleDestructor1\bin\Debug\ConsoleDestructor1.exe.config
+C:\cs2017\ch05\ConsoleDestructor1\bin\Debug\ConsoleDestructor1.exe
+C:\cs2017\ch05\ConsoleDestructor1\bin\Debug\ConsoleDestructor1.pdb
+C:\cs2017\ch05\ConsoleDestructor1\obj\Debug\ConsoleDestructor1.csprojResolveAssemblyReference.cache
+C:\cs2017\ch05\ConsoleDestructor1\obj\Debug\ConsoleDestructor1.exe
+C:\cs2017\ch05\ConsoleDestructor1\obj\Debug\ConsoleDestructor1.pdb

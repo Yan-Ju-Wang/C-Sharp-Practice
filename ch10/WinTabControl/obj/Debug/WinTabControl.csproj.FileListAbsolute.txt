@@ -1,0 +1,8 @@
+C:\cs2017\ch10\WinTabControl\bin\Debug\WinTabControl.exe.config
+C:\cs2017\ch10\WinTabControl\bin\Debug\WinTabControl.exe
+C:\cs2017\ch10\WinTabControl\bin\Debug\WinTabControl.pdb
+C:\cs2017\ch10\WinTabControl\obj\Debug\WinTabControl.Form1.resources
+C:\cs2017\ch10\WinTabControl\obj\Debug\WinTabControl.Properties.Resources.resources
+C:\cs2017\ch10\WinTabControl\obj\Debug\WinTabControl.csproj.GenerateResource.Cache
+C:\cs2017\ch10\WinTabControl\obj\Debug\WinTabControl.exe
+C:\cs2017\ch10\WinTabControl\obj\Debug\WinTabControl.pdb

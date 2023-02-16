@@ -1,0 +1,5 @@
+C:\cs2017\ch01\first\bin\Debug\first.exe.config
+C:\cs2017\ch01\first\bin\Debug\first.exe
+C:\cs2017\ch01\first\bin\Debug\first.pdb
+C:\cs2017\ch01\first\obj\Debug\first.exe
+C:\cs2017\ch01\first\obj\Debug\first.pdb

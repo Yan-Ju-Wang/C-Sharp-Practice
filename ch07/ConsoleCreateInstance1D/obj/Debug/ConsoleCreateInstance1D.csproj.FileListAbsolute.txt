@@ -1,0 +1,12 @@
+C:\cs2017\ch08\ConsoleCreateInstance1D\bin\Debug\ConsoleCreateInstance1D.exe.config
+C:\cs2017\ch08\ConsoleCreateInstance1D\bin\Debug\ConsoleCreateInstance1D.exe
+C:\cs2017\ch08\ConsoleCreateInstance1D\bin\Debug\ConsoleCreateInstance1D.pdb
+C:\cs2017\ch08\ConsoleCreateInstance1D\obj\Debug\ConsoleCreateInstance1D.csprojResolveAssemblyReference.cache
+C:\cs2017\ch08\ConsoleCreateInstance1D\obj\Debug\ConsoleCreateInstance1D.exe
+C:\cs2017\ch08\ConsoleCreateInstance1D\obj\Debug\ConsoleCreateInstance1D.pdb
+C:\cs2017\ch07\ConsoleCreateInstance1D\bin\Debug\ConsoleCreateInstance1D.exe.config
+C:\cs2017\ch07\ConsoleCreateInstance1D\bin\Debug\ConsoleCreateInstance1D.exe
+C:\cs2017\ch07\ConsoleCreateInstance1D\bin\Debug\ConsoleCreateInstance1D.pdb
+C:\cs2017\ch07\ConsoleCreateInstance1D\obj\Debug\ConsoleCreateInstance1D.csprojResolveAssemblyReference.cache
+C:\cs2017\ch07\ConsoleCreateInstance1D\obj\Debug\ConsoleCreateInstance1D.exe
+C:\cs2017\ch07\ConsoleCreateInstance1D\obj\Debug\ConsoleCreateInstance1D.pdb

@@ -1,0 +1,9 @@
+C:\cs2017\ch13\WinKeyPress\bin\Debug\WinKeyPress.exe.config
+C:\cs2017\ch13\WinKeyPress\bin\Debug\WinKeyPress.exe
+C:\cs2017\ch13\WinKeyPress\bin\Debug\WinKeyPress.pdb
+C:\cs2017\ch13\WinKeyPress\obj\Debug\WinKeyPress.csprojResolveAssemblyReference.cache
+C:\cs2017\ch13\WinKeyPress\obj\Debug\WinKeyPress.Form1.resources
+C:\cs2017\ch13\WinKeyPress\obj\Debug\WinKeyPress.Properties.Resources.resources
+C:\cs2017\ch13\WinKeyPress\obj\Debug\WinKeyPress.csproj.GenerateResource.Cache
+C:\cs2017\ch13\WinKeyPress\obj\Debug\WinKeyPress.exe
+C:\cs2017\ch13\WinKeyPress\obj\Debug\WinKeyPress.pdb

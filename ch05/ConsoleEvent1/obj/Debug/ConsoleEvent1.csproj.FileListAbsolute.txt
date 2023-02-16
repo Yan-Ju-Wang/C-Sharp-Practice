@@ -1,0 +1,12 @@
+c:\users\jane\documents\visual studio 2017\Projects\ConsoleEvent1\obj\Debug\ConsoleEvent1.csprojResolveAssemblyReference.cache
+c:\users\jane\documents\visual studio 2017\Projects\ConsoleEvent1\bin\Debug\ConsoleEvent1.exe.config
+c:\users\jane\documents\visual studio 2017\Projects\ConsoleEvent1\bin\Debug\ConsoleEvent1.exe
+c:\users\jane\documents\visual studio 2017\Projects\ConsoleEvent1\bin\Debug\ConsoleEvent1.pdb
+c:\users\jane\documents\visual studio 2017\Projects\ConsoleEvent1\obj\Debug\ConsoleEvent1.exe
+c:\users\jane\documents\visual studio 2017\Projects\ConsoleEvent1\obj\Debug\ConsoleEvent1.pdb
+C:\cs2017\ch05\ConsoleEvent1\bin\Debug\ConsoleEvent1.exe.config
+C:\cs2017\ch05\ConsoleEvent1\bin\Debug\ConsoleEvent1.exe
+C:\cs2017\ch05\ConsoleEvent1\bin\Debug\ConsoleEvent1.pdb
+C:\cs2017\ch05\ConsoleEvent1\obj\Debug\ConsoleEvent1.csprojResolveAssemblyReference.cache
+C:\cs2017\ch05\ConsoleEvent1\obj\Debug\ConsoleEvent1.exe
+C:\cs2017\ch05\ConsoleEvent1\obj\Debug\ConsoleEvent1.pdb

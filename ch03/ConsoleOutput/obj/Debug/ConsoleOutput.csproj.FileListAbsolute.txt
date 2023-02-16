@@ -1,0 +1,10 @@
+C:\cs2017\ch04\ConsoleOutput\bin\Debug\ConsoleOutput.exe.config
+C:\cs2017\ch04\ConsoleOutput\bin\Debug\ConsoleOutput.exe
+C:\cs2017\ch04\ConsoleOutput\bin\Debug\ConsoleOutput.pdb
+C:\cs2017\ch04\ConsoleOutput\obj\Debug\ConsoleOutput.exe
+C:\cs2017\ch04\ConsoleOutput\obj\Debug\ConsoleOutput.pdb
+C:\cs2017\ch03\ConsoleOutput\bin\Debug\ConsoleOutput.exe.config
+C:\cs2017\ch03\ConsoleOutput\bin\Debug\ConsoleOutput.exe
+C:\cs2017\ch03\ConsoleOutput\bin\Debug\ConsoleOutput.pdb
+C:\cs2017\ch03\ConsoleOutput\obj\Debug\ConsoleOutput.exe
+C:\cs2017\ch03\ConsoleOutput\obj\Debug\ConsoleOutput.pdb

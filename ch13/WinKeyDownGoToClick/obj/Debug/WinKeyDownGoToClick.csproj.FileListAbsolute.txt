@@ -1,0 +1,9 @@
+C:\cs2017\ch13\WinKeyDownGoToClick\obj\Debug\WinKeyDownGoToClick.csprojResolveAssemblyReference.cache
+C:\cs2017\ch13\WinKeyDownGoToClick\obj\Debug\WinKeyDownGoToClick.Form1.resources
+C:\cs2017\ch13\WinKeyDownGoToClick\obj\Debug\WinKeyDownGoToClick.Properties.Resources.resources
+C:\cs2017\ch13\WinKeyDownGoToClick\obj\Debug\WinKeyDownGoToClick.csproj.GenerateResource.Cache
+C:\cs2017\ch13\WinKeyDownGoToClick\bin\Debug\WinKeyDownGoToClick.exe.config
+C:\cs2017\ch13\WinKeyDownGoToClick\bin\Debug\WinKeyDownGoToClick.exe
+C:\cs2017\ch13\WinKeyDownGoToClick\bin\Debug\WinKeyDownGoToClick.pdb
+C:\cs2017\ch13\WinKeyDownGoToClick\obj\Debug\WinKeyDownGoToClick.exe
+C:\cs2017\ch13\WinKeyDownGoToClick\obj\Debug\WinKeyDownGoToClick.pdb

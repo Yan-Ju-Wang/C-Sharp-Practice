@@ -1,0 +1,5 @@
+C:\cs2017\ch08\ConsoleDirectoryInfo2\bin\Debug\ConsoleDirectoryInfo2.exe.config
+C:\cs2017\ch08\ConsoleDirectoryInfo2\bin\Debug\ConsoleDirectoryInfo2.exe
+C:\cs2017\ch08\ConsoleDirectoryInfo2\bin\Debug\ConsoleDirectoryInfo2.pdb
+C:\cs2017\ch08\ConsoleDirectoryInfo2\obj\Debug\ConsoleDirectoryInfo2.exe
+C:\cs2017\ch08\ConsoleDirectoryInfo2\obj\Debug\ConsoleDirectoryInfo2.pdb

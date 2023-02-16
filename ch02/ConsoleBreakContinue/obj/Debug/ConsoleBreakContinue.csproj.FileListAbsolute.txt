@@ -1,0 +1,5 @@
+C:\cs2017\ch02\ConsoleBreakContinue\bin\Debug\ConsoleBreakContinue.exe.config
+C:\cs2017\ch02\ConsoleBreakContinue\bin\Debug\ConsoleBreakContinue.exe
+C:\cs2017\ch02\ConsoleBreakContinue\bin\Debug\ConsoleBreakContinue.pdb
+C:\cs2017\ch02\ConsoleBreakContinue\obj\Debug\ConsoleBreakContinue.exe
+C:\cs2017\ch02\ConsoleBreakContinue\obj\Debug\ConsoleBreakContinue.pdb

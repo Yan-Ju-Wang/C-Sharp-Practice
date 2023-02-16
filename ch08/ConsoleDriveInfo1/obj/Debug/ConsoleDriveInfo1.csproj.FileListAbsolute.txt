@@ -1,0 +1,6 @@
+C:\cs2017\ch08\ConsoleDriveInfo1\bin\Debug\ConsoleDriveInfo1.exe.config
+C:\cs2017\ch08\ConsoleDriveInfo1\bin\Debug\ConsoleDriveInfo1.exe
+C:\cs2017\ch08\ConsoleDriveInfo1\bin\Debug\ConsoleDriveInfo1.pdb
+C:\cs2017\ch08\ConsoleDriveInfo1\obj\Debug\ConsoleDriveInfo1.csprojResolveAssemblyReference.cache
+C:\cs2017\ch08\ConsoleDriveInfo1\obj\Debug\ConsoleDriveInfo1.exe
+C:\cs2017\ch08\ConsoleDriveInfo1\obj\Debug\ConsoleDriveInfo1.pdb

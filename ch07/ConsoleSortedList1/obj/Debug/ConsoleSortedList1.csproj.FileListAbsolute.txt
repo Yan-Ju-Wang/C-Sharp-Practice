@@ -1,0 +1,10 @@
+C:\cs2017\ch08\ConsoleSortedList1\bin\Debug\ConsoleSortedList1.exe.config
+C:\cs2017\ch08\ConsoleSortedList1\bin\Debug\ConsoleSortedList1.exe
+C:\cs2017\ch08\ConsoleSortedList1\bin\Debug\ConsoleSortedList1.pdb
+C:\cs2017\ch08\ConsoleSortedList1\obj\Debug\ConsoleSortedList1.exe
+C:\cs2017\ch08\ConsoleSortedList1\obj\Debug\ConsoleSortedList1.pdb
+C:\cs2017\ch07\ConsoleSortedList1\bin\Debug\ConsoleSortedList1.exe.config
+C:\cs2017\ch07\ConsoleSortedList1\bin\Debug\ConsoleSortedList1.exe
+C:\cs2017\ch07\ConsoleSortedList1\bin\Debug\ConsoleSortedList1.pdb
+C:\cs2017\ch07\ConsoleSortedList1\obj\Debug\ConsoleSortedList1.exe
+C:\cs2017\ch07\ConsoleSortedList1\obj\Debug\ConsoleSortedList1.pdb

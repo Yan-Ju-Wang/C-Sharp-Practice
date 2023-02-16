@@ -1,0 +1,12 @@
+C:\cs2017\ch04\ConsoleMethod3\bin\Debug\ConsoleMethod3.exe.config
+C:\cs2017\ch04\ConsoleMethod3\bin\Debug\ConsoleMethod3.exe
+C:\cs2017\ch04\ConsoleMethod3\bin\Debug\ConsoleMethod3.pdb
+C:\cs2017\ch04\ConsoleMethod3\obj\Debug\ConsoleMethod3.csprojResolveAssemblyReference.cache
+C:\cs2017\ch04\ConsoleMethod3\obj\Debug\ConsoleMethod3.exe
+C:\cs2017\ch04\ConsoleMethod3\obj\Debug\ConsoleMethod3.pdb
+C:\cs2017\ch03\ConsoleMethod3\bin\Debug\ConsoleMethod3.exe.config
+C:\cs2017\ch03\ConsoleMethod3\bin\Debug\ConsoleMethod3.exe
+C:\cs2017\ch03\ConsoleMethod3\bin\Debug\ConsoleMethod3.pdb
+C:\cs2017\ch03\ConsoleMethod3\obj\Debug\ConsoleMethod3.csprojResolveAssemblyReference.cache
+C:\cs2017\ch03\ConsoleMethod3\obj\Debug\ConsoleMethod3.exe
+C:\cs2017\ch03\ConsoleMethod3\obj\Debug\ConsoleMethod3.pdb
